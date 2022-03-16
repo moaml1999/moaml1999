@@ -1,11 +1,23 @@
 ### Hi there 👋, I'm Moamel A. Hameed
 #### I'm a student now & an engineer in the future . 
-I love programing & math so I learning about machine learning & deep learning
 
-Skills: python / problem solving 
+<div align="center">
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" width="300">
+<p> </p>
+</div>
 
-- 🔭 I’m currently working on google colab & VS code 
-- 🌱 I’m currently learning computer vision 
+
+
+## Skills
+* python 
+* problem solving 
+
+
+
+
+🔭 I’m currently working on google colab & VS code 
+
+🌱 I’m currently learning computer vision 
 
 
 
