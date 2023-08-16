@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Moamel A. Hameed
-#### I'm a student now & an engineer in the future . 
+#### I'm engineer and developer. 
 
 <div align="center">
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="300">
