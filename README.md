@@ -12,6 +12,12 @@
 - 🌱 I’m currently learning computer vision 
 
 
+## My project
+* ### Simple Python Project
+  * Telegram QR Code Generator Bot: [link](https://github.com/moaml1999/SimplePythonProject/tree/main#telegram-qr-code-generator-bot)
+* ### Raspberry Pi Pico W
+  * Telegram bot: [link](https://github.com/moaml1999/RaspberryPi_Pico_w/tree/main/Telegram%20pico%20W)
+  * Control LED Blynk Platform: [link](https://github.com/moaml1999/RaspberryPi_Pico_w/tree/main/Control%20LED%20on%20RPi%20Pico%20using%20Blynk%20Platform%20and%20CircuitPython)
 
 ## 🛠 Skills
 * problem solving
