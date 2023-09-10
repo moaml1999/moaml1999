@@ -21,6 +21,7 @@
 
 ## 🛠 Skills
 * problem solving
+* design & PCB
 * Python 
 * Arduino 
 * Matlab 
